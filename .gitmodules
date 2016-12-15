@@ -1,0 +1,3 @@
+[submodule "mbed-dev"]
+	path = mbed-dev
+	url = https://github.com/team-diana/mbed-dev
